@@ -1,0 +1,12 @@
+# Binaries
+bin/
+example/example
+
+# Environment variables
+.env
+
+# Go specific
+vendor/
+*.exe
+*.test
+*.prof
